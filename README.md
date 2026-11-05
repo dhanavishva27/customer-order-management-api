@@ -40,7 +40,7 @@ Relationship: One customer can have multiple orders.
 ## Installation and Setup
 
 1. Install Python and MySQL.
-2. Create the MySQL database and required tables.
+2. Create the MySQL database using schema.sql.
 3. Create and activate a Python virtual environment.
 4. Install dependencies:
 
